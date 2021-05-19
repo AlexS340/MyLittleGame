@@ -1,2 +1,3 @@
-./idea*
-/help.py
+./idea
+help.py
+__pycache__/
