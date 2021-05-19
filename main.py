@@ -87,7 +87,8 @@ while running:
                 try:
                     tool = inventory.backpack[inventory.active_tool]
                 except:
-                    pass
+                    print("err")
+
                 if tool.type() == 'weapon':
                     level.fire(event.pos)
 
