@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3b952a3e-a791-4aa1-9da2-aabb87ddf8b0" name="Default Changelist" comment="gitingore fixed">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="3b952a3e-a791-4aa1-9da2-aabb87ddf8b0" name="Default Changelist" comment="bugs fixed" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -223,6 +221,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="this is my first commit" />
     <MESSAGE value="gitingore fixed" />
-    <option name="LAST_COMMIT_MESSAGE" value="gitingore fixed" />
+    <MESSAGE value="bugs fixed" />
+    <option name="LAST_COMMIT_MESSAGE" value="bugs fixed" />
   </component>
 </project>
