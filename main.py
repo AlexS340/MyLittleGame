@@ -84,7 +84,10 @@ while running:
             if event.button == 3:
                 inventory.on_click(screen, event.pos)
             elif event.button == 1 and len(inventory.backpack) > 0:
-                tool = inventory.backpack[inventory.active_tool]
+                try:
+                    tool = inventory.backpack[inventory.active_tool]
+                except:
+                    pass
                 if tool.type() == 'weapon':
                     level.fire(event.pos)
 
